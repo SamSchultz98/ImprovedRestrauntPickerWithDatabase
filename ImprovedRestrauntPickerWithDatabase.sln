@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImprovedRestrauntPickerWithDatabase", "ImprovedRestrauntPickerWithDatabase\ImprovedRestrauntPickerWithDatabase.csproj", "{82DFE69B-9AE5-4D24-B00B-0F18971B67BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82DFE69B-9AE5-4D24-B00B-0F18971B67BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DFE69B-9AE5-4D24-B00B-0F18971B67BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DFE69B-9AE5-4D24-B00B-0F18971B67BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DFE69B-9AE5-4D24-B00B-0F18971B67BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF222900-77FE-46E9-9D37-D1AF1B78BFFB}
+	EndGlobalSection
+EndGlobal
